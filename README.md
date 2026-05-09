@@ -1,1 +1,1 @@
-
+# hey, i'm ayush 👋 ui/ux designer + ar/vr dev based in vadodara. 4th year CSE-AI at parul university. currently wrapping up my b.tech and looking for full-time roles in design or immersive tech. **things i've shipped:** - vr anatomy interface @ i web wala — 82.5 SUS, 45 users tested - marker-based ar qr experience — unity + webar - birdy 2d mobile game — full game loop in unity - silver at iqc 2026 — quant analysis in python **tools i actually use:** figma · unity 3d · blender · react · python reach me: singhayush10g@gmail.com figma: figma.com/@destroyermoh
