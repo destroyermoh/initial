@@ -1303,7 +1303,7 @@ function createAmbient(){
   noiseNode.connect(bpf);bpf.connect(noiseGain);noiseGain.connect(spatialFilter);
   noiseGain.gain.value=0;
 
-  ambientNodes=[{gain:gain1,target:0.04},{gain:gain2,target:0.02},{gain:noiseGain,target:0.008}];
+  ambientNodes=[{gain:gain1,target:0.065},{gain:gain2,target:0.032},{gain:noiseGain,target:0.013}];
 }
 
 // Continuous "9D" motion: pan drifts left/right with a slow LFO + mouse X,
